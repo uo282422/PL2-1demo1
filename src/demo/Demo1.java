@@ -22,7 +22,6 @@ public class Demo1 {
 			System.out.println("Linea 1 Diego en Master");
 			System.out.println("Nueva linea 2");
 			
-			// Cambio en la rama Diego Garcia
 			
 			//Cambio en la Rama Master
 			
